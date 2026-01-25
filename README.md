@@ -42,8 +42,7 @@ to building backend APIs and workflows that power real-world products.
 
 ## 📫 Let’s connect
 
-- **LinkedIn:** https://linkedin.com/in/anuj-singh-34371a289  
-- **GitHub:** https://github.com/peanut-man  
+- **LinkedIn:** https://linkedin.com/in/anuj-singh-34371a289 
 
 I’m always open to learning opportunities, collaborations, and meaningful
 conversations around web development and product engineering.
